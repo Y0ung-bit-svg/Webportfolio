@@ -1,10 +1,26 @@
 h1{
   color: brown;
+  font-family: PremierSans-Regular, Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size:160%;
+}
+{
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
 
 }
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
 body{margin: 0;
     min-height: 100%;
-    background-color:orange;
+    background-color:lightblue;
     font-family: Arial,sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -20,5 +36,8 @@ body{margin: 0;
     margin: 8px;
 }
 h2{
-  colour: green;
+  colour:white;
+  font-family: sans-serif;
+  font-size:120%;
+
 }
