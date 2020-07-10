@@ -12,22 +12,7 @@ html {
 
 }
 
-html {
-    font-family: sans-serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-}
-
-body{margin: 0;
-    min-height: 100%;
-    background-color:lightblue;
-    font-family: Arial,sans-serif;
-    font-size: 14px;
-    line-height: 20px;
-    color: #333;
-
-}
-
+body
 {    box-sizing: border-box;
 
 }
@@ -44,4 +29,8 @@ h2{
 }
 img{ height: auto;
      width: auto;
+     float: left;
+}
+div{
+   padding-right: 
 }
